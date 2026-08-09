@@ -1,394 +1,189 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
-# 👋 Hello, I'm **Niyogisubizo Jeremie**
+# NIYOGISUBIZO JEREMIE
 
-### 🚀 Software Engineer • Full-Stack Developer • Mobile Developer • Technology Builder
+### Software Engineer · Full-Stack Developer · Mobile Developer · Technology Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Building+modern+digital+solutions;Full-Stack+Web+%26+Mobile+Developer;React+%7C+Node.js+%7C+Flutter+%7C+PostgreSQL;Turning+ideas+into+real+products;Learning%2C+Building%2C+Improving+%F0%9F%9A%80" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1800&color=2563EB&center=true&vCenter=true&width=850&lines=Building+Scalable+Digital+Products;Engineering+Modern+Web+%26+Mobile+Applications;Designing+Reliable+Backend+Systems;Turning+Complex+Problems+Into+Simple+Solutions" />
 
-<br/>
+<br>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=niyogisubizojeremie73-sketch
+&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
+## About
 
-## 🧑‍💻 About Me
+I am **Niyogisubizo Jeremie**, a software engineer focused on designing and building practical, scalable, and user-centered digital products.
 
-I'm **Niyogisubizo Jeremie**, a software developer and technology enthusiast focused on building practical, scalable, and user-friendly digital solutions.
+My work spans the complete software development lifecycle — from understanding a problem and designing its architecture to developing, testing, deploying, and continuously improving the final product.
 
-I work across **web development, mobile development, backend systems, databases, authentication, dashboards, and deployment**.
+I work across:
 
-My approach is simple:
+- Full-Stack Web Development
+- Mobile Application Development
+- Backend Engineering
+- Database Architecture
+- API Development
+- Authentication and Authorization
+- Dashboard and Data Systems
+- Cloud Deployment
+- Education Technology
+- Business and Management Systems
 
-> **Understand the problem → Design the solution → Build it → Test it → Deploy it → Improve it.**
+My engineering philosophy is straightforward:
 
-I enjoy transforming ideas into real applications that can solve problems in:
-
-- 🏫 Education
-- 📦 Inventory & Stock Management
-- 💼 Business Management
-- 📊 Data & Analytics
-- 📱 Mobile Applications
-- 🌐 Web Platforms
-- 🔐 Authentication & Security
-- 🧠 Technology & Digital Learning
+> **Understand the problem. Design the right solution. Build it well. Test it thoroughly. Deploy it reliably. Improve it continuously.**
 
 ---
 
-## 🚀 What I Do
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                  SOFTWARE ENGINEERING                   │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  🌐 Web Development        📱 Mobile Development        │
-│  ⚙️ Backend Development    🗄️ Database Engineering      │
-│  🔐 Authentication         📊 Dashboard Development     │
-│  ☁️ Cloud Deployment       🔌 API Integration           │
-│  🎓 Education Technology   🧠 Problem Solving            │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-🛠️ Technology Stack
-💻 Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,dart,html,css,python,sql" /> </p>
-🌐 Frontend Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,js,ts" /> </p>
-
-Focus areas:
-
-Responsive UI
-Component-based architecture
-Modern dashboards
-API integration
-State management
-Form validation
-Accessibility
-Performance optimization
-Interactive user interfaces
-⚙️ Backend Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,js" /> </p>
-
-I build backend systems involving:
-
-REST APIs
-Authentication
-Authorization
-JWT
-Email verification
-Password reset
-CRUD operations
-API validation
-Error handling
-Database integration
-Secure environment configuration
-📱 Mobile Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,react" /> </p>
-
-I am interested in building cross-platform applications with:
-
-Flutter
-Dart
-React Native
-REST APIs
-Authentication
-Local/offline functionality
-CRUD operations
-Data analysis
-Responsive mobile interfaces
-🗄️ Databases & Backend Services
-<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase" /> </p>
-
-Experience/interests include:
-
-PostgreSQL
-Supabase
-Database design
-Relational data
-SQL
-Authentication systems
-Storage buckets
-API integration
-Data retrieval
-Database security
-☁️ Deployment & Development Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase" /> </p>
-
-I work with:
-
-Git
-GitHub
-VS Code
-Vite
-Vercel
-Firebase
-Supabase
-Environment variables
-Production deployment
-Debugging & troubleshooting
-🚀 Featured Projects
-
-A collection of projects I have built, contributed to, or explored.
-
-🏫 StockWise School
-📦 School Stock & Inventory Management Platform
-
-A modern platform designed to help schools manage inventory, sales, credits, debits, and stock-related activities.
-
-Key Features
-📦 Stock management
-🛒 Sales recording
-💰 Credit & debit management
-📊 Reports & analytics
-👥 User management
-🔍 Search & filtering
-📱 Responsive interface
-📈 Stock evaluation
-Technologies
+## Engineering Focus
 
-React JavaScript Node.js PostgreSQL Vite
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🔗 Live Demo: ADD_LINK_HERE
+### Web Engineering
 
-🔗 Repository: ADD_GITHUB_LINK_HERE
+Designing modern, responsive, and maintainable web applications with a strong focus on performance, usability, and scalable architecture.
 
-📚 Jeremie Study Portal
-🎓 Digital Learning Platform
+**Focus**
 
-A learning-oriented application designed to support students and educational activities.
+`React` · `JavaScript` · `Vite` · `Tailwind CSS`
 
-Features
-📚 Learning resources
-👨‍🎓 Student-focused interface
-📝 Educational content
-📊 Learning management
-🔐 User authentication
-📱 Mobile-friendly experience
-Technologies
+</td>
 
-Flutter Dart Supabase
+<td width="50%" valign="top">
 
-🔗 Repository: ADD_LINK_HERE
+### Mobile Engineering
 
-❤️ My Health My Friend
-🧠 SRH & Mental Health Platform
+Building cross-platform mobile experiences that connect intuitive interfaces with reliable backend systems.
 
-A digital platform focused on providing accessible and private health-related information and services.
+**Focus**
 
-Features
-🏥 Health facility directory
-📍 GPS-based health facilities
-❤️ SRH information
-🧠 Mental health resources
-💬 Psychologist support
-🤖 AI Friend concept
-🔊 Read Page functionality
-👤 User dashboard
-🔐 Secure access
-Technologies
+`Flutter` · `Dart` · `React Native`
 
-React JavaScript Node.js Database API
-
-🔗 Live Demo: ADD_LINK_HERE
-
-🔗 Repository: ADD_LINK_HERE
-
-💼 INVEST Platform
-📈 Investment Management Platform
-
-A full-stack platform designed around investment management and user participation.
-
-Features
-👤 User profiles
-💰 Investment information
-🤝 Referral system
-📊 Investment dashboard
-📈 Progress tracking
-🔐 Authentication
-📱 Responsive design
-Technologies
+</td>
+</tr>
 
-React Node.js PostgreSQL Supabase
+<tr>
+<td width="50%" valign="top">
 
-🔗 Repository: ADD_LINK_HERE
+### Backend Engineering
 
-🏢 Greenhope IT Dashboard
-🖥️ IT Management Dashboard
+Developing secure and maintainable backend systems, APIs, authentication flows, and business logic.
 
-A centralized dashboard concept for managing technology-related information and user/account activities.
+**Focus**
 
-Features
-👥 User management
-🔐 Account management
-📊 Dashboard
-📋 Data management
-⚙️ Administrative functionality
-Technologies
+`Node.js` · `Express` · `REST APIs` · `JWT`
 
-React JavaScript Node.js Database
+</td>
 
-🔗 Repository: ADD_LINK_HERE
+<td width="50%" valign="top">
 
-🌊 StreamFlow
-🌐 Digital Application Platform
+### Data & Database Engineering
 
-A modern application project focused on building a smooth digital user experience.
+Designing structured data systems that support reliable storage, retrieval, analysis, and application growth.
 
-Technologies
+**Focus**
 
-React JavaScript Node.js Database
+`PostgreSQL` · `Supabase` · `SQL`
 
-🔗 Repository: ADD_LINK_HERE
+</td>
+</tr>
 
-📱 Stock Evaluation Mobile App
-📊 Smart Stock Management
+<tr>
+<td width="50%" valign="top">
 
-A mobile application concept for recording and analyzing business stock activities.
+### Cloud & Deployment
 
-Planned Features
-📦 Stock recording
-💰 Sales
-💳 Credit
-💵 Debit
-📸 Camera-based records
-🧮 Calculations
-📊 Automatic analysis
-📡 Offline functionality
-🔄 Synchronization
-📈 Reports
-Technologies
-
-Flutter Dart Node.js PostgreSQL
-
-🧠 Engineering Interests
-
-I'm continuously developing my knowledge in:
-
-Software Architecture
-       ↓
-Full-Stack Development
-       ↓
-Mobile Engineering
-       ↓
-Cloud & Deployment
-       ↓
-Database Engineering
-       ↓
-Authentication & Security
-       ↓
-AI & Intelligent Applications
-       ↓
-Scalable Digital Products
-🔐 Security & Authentication
-
-I am particularly interested in understanding and implementing secure application architecture.
-
-Areas I'm working with:
-🔑 JWT Authentication
-🔐 Authorization
-👤 Role-based access
-📧 Email verification
-🔄 Password reset
-🛡️ API protection
-🔒 Environment variables
-✅ Input validation
-🚨 Error handling
-🗄️ Secure database access
-📊 Development Workflow
-🧩 My Development Philosophy
-01 — Solve Real Problems
-
-I focus on building software that has a practical purpose.
-
-02 — Keep It Simple
-
-Complex systems should provide simple experiences.
-
-03 — Build for the Future
-
-I prefer architectures that can evolve as requirements grow.
-
-04 — Learn Continuously
-
-Technology changes quickly, so I continuously explore new tools and approaches.
-
-05 — Build. Test. Improve.
-
-Every project is an opportunity to improve engineering skills.
-
-🎓 Education & Teaching
-
-My background combines technology, mathematics, computer science, and education.
-
-I have experience working with students and teaching:
-
-📐 Mathematics
-💻 Computer Science
-🧠 Problem Solving
-👨‍🏫 Technology Concepts
-
-This combination helps me approach software development from both a technical and educational perspective.
-
-📚 Currently Learning
-🔹 Advanced Full-Stack Architecture
-🔹 Scalable Backend Systems
-🔹 Advanced React
-🔹 Flutter & Mobile Engineering
-🔹 PostgreSQL
-🔹 Authentication & Security
-🔹 Cloud Deployment
-🔹 API Architecture
-🔹 AI-powered Applications
-🔹 Software Architecture
-🎯 2026 → Beyond
-
-My long-term goal is to become a highly skilled software engineer capable of designing and building complete technology products from idea → architecture → development → deployment → scale.
-
-Future Focus
-🚀 Advanced software architecture
-🤖 AI-powered applications
-☁️ Cloud engineering
-📱 Advanced mobile development
-🌐 Scalable web platforms
-🔐 Application security
-📊 Data-driven systems
-🏗️ Distributed systems
-🌍 Technology for education
-💡 Building products that solve real problems
-📈 GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" /> </div>
-💻 Most Used Languages
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" /> </div>
-🐍 Contribution Activity
-<div align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" /> </div>
-🌐 Let's Connect
-
-I'm open to:
-
-🤝 Collaboration
-💼 Software development opportunities
-🚀 Startup ideas
-📚 Technology projects
-🏫 Education technology
-🧠 Learning opportunities
-🌍 Open-source projects
-<div align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
+Taking applications from development environments to production with reliable deployment and configuration practices.
+
+**Focus**
+
+`Vercel` · `Firebase` · `Supabase` · `GitHub`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Product Engineering
+
+Turning real-world problems into complete digital products through research, architecture, development, testing, and iteration.
+
+**Focus**
+
+`System Design` · `APIs` · `Dashboards` · `Automation`
+
+</td>
+</tr>
+</table>
+
+---
+
+## What I Build
+
 <div align="center">
-💡 "Build something useful. Make it better. Keep learning."
-<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:00C6FF&height=120&section=footer"/> </div> ```
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### Web Platforms
+
+Modern web applications designed for performance, accessibility, scalability, and long-term maintainability.
+
+</td>
+
+<td align="center" width="25%">
+
+### Mobile Applications
+
+Cross-platform applications designed around practical user experiences and reliable data systems.
+
+</td>
+
+<td align="center" width="25%">
+
+### Backend Systems
+
+Secure APIs, business logic, authentication systems, database integrations, and scalable services.
+
+</td>
+
+<td align="center" width="25%">
+
+### Digital Products
+
+Complete technology solutions that transform real-world problems into usable digital experiences.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## Problem-Solving Approach
+
+<div align="center">
+
+```mermaid
+flowchart LR
+
+A["Understand"] --> B["Architect"]
+B --> C["Design"]
+C --> D["Build"]
+D --> E["Test"]
+E --> F["Deploy"]
+F --> G["Improve"]
+
+classDef step fill:#0f172a,stroke:#2563eb,color:#ffffff,stroke-width:2px;
+
+class A,B,C,D,E,F,G step;
