@@ -197,7 +197,7 @@ flowchart LR
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=niyogisubizojeremie73-sketch&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=0f172a&bg_color=ffffff"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=niyogisubizojeremie73-sketch&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=2563EB"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=niyogisubizojeremie73-sketch&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=2563EB"/>
 
 <br>
 
