@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="./assets/nj-logo.png" width="90" height="90" alt="NJ Logo"/>
 
 <!-- Fixed URL encoding for ampersand to resolve XML rendering error -->
