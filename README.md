@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/nj-logo.png" width="90" height="90" alt="NJ Logo"/>
+
 <!-- Fixed URL encoding for ampersand to resolve XML rendering error -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563EB&height=200&section=header&text=Niyogisubizo%20Jeremie&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
@@ -12,6 +14,7 @@
 <a href="#-tech-stack"><img src="https://img.shields.io/badge/Full--Stack%20Developer-2563EB?style=for-the-badge&logo=react&logoColor=white"/></a>
 <a href="#-tech-stack"><img src="https://img.shields.io/badge/Mobile%20Developer-0f172a?style=for-the-badge&logo=flutter&logoColor=white"/></a>
 <a href="#-tech-stack"><img src="https://img.shields.io/badge/Backend%20Engineer-2563EB?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<a href="https://niyogisubizojeremie.nexastack.net/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br><br>
 
@@ -30,6 +33,8 @@ My work spans the complete software development lifecycle — from understanding
 
 > **Engineering Philosophy:**
 > Understand the problem → Design the architecture → Build clean code → Test thoroughly → Deploy reliably → Iterate continuously.
+
+🔗 **Portfolio:** [niyogisubizojeremie.nexastack.net](https://niyogisubizojeremie.nexastack.net/)
 
 <br>
 
@@ -81,3 +86,4 @@ flowchart LR
 
     classDef step fill:#0f172a,stroke:#2563eb,color:#ffffff,stroke-width:2px;
     class A,B,C,D,E,F,G step;
+```
