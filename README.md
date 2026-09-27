@@ -1,12 +1,7 @@
 <div align="center">
 
 
-<!-- Fixed URL encoding for ampersand to resolve XML rendering error -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563EB&height=200&section=header&text=Niyogisubizo%20Jeremie&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1800&color=2563EB&center=true&vCenter=true&width=850&lines=Building+Scalable+Digital+Products;Engineering+Modern+Web+%26+Mobile+Applications;Designing+Reliable+Backend+Systems;Turning+Complex+Problems+Into+Simple+Solutions" />
 
 <br><br>
 
