@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/nj-logo.png" width="90" height="90" alt="NJ Logo"/>
+
 
 <!-- Fixed URL encoding for ampersand to resolve XML rendering error -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563EB&height=200&section=header&text=Niyogisubizo%20Jeremie&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
