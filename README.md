@@ -1,7 +1,16 @@
 <div align="center">
 
+<img src="./assets/nj-logo.png" width="90" height="90" alt="NJ Logo"/>
 
+<br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=850&height=70&lines=Niyogisubizo+Jeremie" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1800&color=0F172A&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Full-Stack+%26+Mobile+Developer" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1800&color=2563EB&center=true&vCenter=true&width=850&lines=Building+Scalable+Digital+Products;Engineering+Modern+Web+%26+Mobile+Applications;Designing+Reliable+Backend+Systems;Turning+Complex+Problems+Into+Simple+Solutions" />
 
 <br><br>
 
